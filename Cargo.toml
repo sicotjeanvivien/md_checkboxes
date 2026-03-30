@@ -1,0 +1,9 @@
+[package]
+name = "md_checkboxes"
+version = "1.0.0"
+edition = "2021"
+description = "Convertit les checkboxes Markdown [x]/[ ] en emojis ✅/❌"
+
+[[bin]]
+name = "md_checkboxes"
+path = "src/main.rs"

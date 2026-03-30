@@ -123,3 +123,9 @@ md_checkboxes/
 ## Licence
 
 MIT
+
+---
+
+## Notice
+
+Ce projet a été entièrement généré par intelligence artificielle ([Claude](https://claude.ai) par Anthropic).
